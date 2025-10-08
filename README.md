@@ -6,7 +6,6 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=9b59b6&center=true&vCenter=true&width=435&lines=💀+Gabriel+C.+Wottawa+💀)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=9b59b6&center=true&vCenter=true&width=600&lines=🛠️+Desenvolvedor+Full+Stack+🎨)](https://git.io/typing-svg)
 
 </div>
@@ -33,17 +32,18 @@
 <div align="center">
   
 ### 🧠 Sobre mim
-  
-</div>
 
 Sou um desenvolvedor apaixonado por **arquitetura limpa**, **boas práticas** e **integrações entre sistemas**.  
-Tenho experiência sólida com **C# / .NET**, **Angular**, **TypeScript**, **PostgreSQL**, **SQLServer** e **Redis**, atuando principalmente em sistemas distribuídos e microsserviços.
+Tenho experiência sólida com **C# / .NET**, **Angular**, **TypeScript**, **PostgreSQL**, **SQLServer** e **Redis**, atuando principalmente em **sistemas distribuídos** e **microsserviços**.
 
-- 🧩 Experiência em **integrações complexas** (Twilio, Pipefy, Keycloak, Supabase)  
-- ⚙️ Criação de **APIs REST** performáticas e bem documentadas  
-- 🧠 Foco em **escalabilidade**, **observabilidade** e **código limpo**  
-- 🐳 Automação e containers com **Docker Compose**  
-- 📦 Organização de domínios e caching avançado com **Redis**  
+</div>
+
+- 🧩 Experiência em **integrações complexas** com APIs externas e mensageria assíncrona  
+- ⚙️ Criação de **APIs REST** performáticas e bem estruturadas  
+- 📡 Vivência com **filas e padrões de comunicação assíncrona**, utilizando **RabbitMQ** e **Google Pub/Sub**  
+- 🧠 Foco em **escalabilidade**, **observabilidade** e **resiliência** de serviços  
+- 🐳 Automação e orquestração de ambientes com **Docker Compose**  
+- 📦 Organização de **domínios e caching inteligente** com **Redis**
 
 ---
 
