@@ -119,8 +119,6 @@ Tenho experiência sólida com **C# / .NET**, **Angular**, **TypeScript**, **Pos
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=gabrielwottawa&label=Visualizações&color=9b59b6&style=for-the-badge)
 ![Hits](https://hits.sh/github.com/gabrielwottawa.svg?label=Visitas+no+perfil&color=9b59b6&logo=github&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/gabrielwottawa?affiliations=OWNER&color=9b59b6&style=for-the-badge&logo=github)
 
 </div>
