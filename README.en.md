@@ -124,6 +124,8 @@ I have solid experience with **C# / .NET**, **Angular**, **TypeScript**, **Postg
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gabrielwottawa&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielwottawa&theme=tokyonight)
+
 ---
 
 🖤 *“Clean code always looks like it was written by someone who cares.”*  
