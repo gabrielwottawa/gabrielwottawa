@@ -71,6 +71,7 @@ I have solid experience with **C# / .NET**, **Angular**, **TypeScript**, **Postg
 [![Visual Studio Code](https://img.shields.io/badge/-VS_Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
 [![Windsurf](https://img.shields.io/badge/-Windsurf-181717?style=for-the-badge&logo=visualstudiocode&logoColor=00C6FF)](https://codeium.com/windsurf)
 [![Supabase](https://img.shields.io/badge/-Supabase-181717?style=for-the-badge&logo=supabase&logoColor=3ECF8E)](https://supabase.com/)
+[![DBeaver](https://img.shields.io/badge/-DBeaver-181717?style=for-the-badge&logo=dbeaver&logoColor=9b59b6)](https://dbeaver.io/)
 
 </div>
 
