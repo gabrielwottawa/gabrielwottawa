@@ -62,7 +62,7 @@ Tenho experiência sólida com **C# / .NET**, **Angular**, **TypeScript**, **Pos
 
 <div align="center">
   
-### 🧰 Ferramentas & Integrações
+### 🧰 Ferramentas 🦴 Integrações
 
 [![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)](https://www.twilio.com/)
 [![Keycloak](https://img.shields.io/badge/-Keycloak-4A90E2?style=for-the-badge&logo=keycloak&logoColor=white)](https://www.keycloak.org/)
@@ -86,7 +86,7 @@ Tenho experiência sólida com **C# / .NET**, **Angular**, **TypeScript**, **Pos
 
 <div align="center">
   
-### 📚 Bibliotecas & Frameworks
+### 📚 Bibliotecas 🦴 Frameworks
 
 [![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/core/)
 [![Dapper](https://img.shields.io/badge/-Dapper-1384C8?style=for-the-badge&logo=nuget&logoColor=white)](https://github.com/DapperLib/Dapper)
