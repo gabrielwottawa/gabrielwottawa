@@ -12,6 +12,15 @@
 
 <div align="center">
 
+#### 🌍 Language Selector | Seletor de Idioma
+### 🇺🇸 [English](./README.en.md) • 🇧🇷 [Português](./README.md)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🧩 Main Stack
 
 [![C#](https://img.shields.io/badge/-CSharp-181717?style=for-the-badge&logo=csharp&logoColor=9b59b6)](https://learn.microsoft.com/dotnet/csharp/)
