@@ -3,17 +3,17 @@
   Theme: Dark Minimalist
 -->
 
-<div align="center">
+<div align="right" style="font-size:5px;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=9b59b6&center=true&vCenter=true&width=435&lines=💀+Gabriel+C.+Wottawa+💀)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=9b59b6&center=true&vCenter=true&width=600&lines=🛠️+Full+Stack+Developer+🎨)](https://git.io/typing-svg)
+🌍 Language Selector | Seletor de Idioma  
+🇺🇸 [English](./README.en.md) • 🇧🇷 [Português](./README.md)
 
 </div>
 
 <div align="center">
 
-#### 🌍 Language Selector | Seletor de Idioma
-### 🇺🇸 [English](./README.en.md) • 🇧🇷 [Português](./README.md)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=9b59b6&center=true&vCenter=true&width=435&lines=💀+Gabriel+C.+Wottawa+💀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=9b59b6&center=true&vCenter=true&width=600&lines=🛠️+Full+Stack+Developer+🎨)](https://git.io/typing-svg)
 
 </div>
 
