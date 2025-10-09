@@ -24,7 +24,7 @@
 ### 🧩 Main Stack
 
 [![C#](https://img.shields.io/badge/-CSharp-181717?style=for-the-badge&logo=csharp&logoColor=9b59b6)](https://learn.microsoft.com/dotnet/csharp/)
-[![.NET 8](https://img.shields.io/badge/-.NET_8-181717?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/-.NET_8-181717?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://dotnet.microsoft.com/)
 [![Angular](https://img.shields.io/badge/-Angular-181717?style=for-the-badge&logo=angular&logoColor=DD0031)](https://angular.io/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-181717?style=for-the-badge&logo=node.js&logoColor=339933)](https://nodejs.org/)
