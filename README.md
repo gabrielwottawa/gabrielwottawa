@@ -47,7 +47,7 @@
 ### 🧠 Sobre mim
 
 Sou um desenvolvedor apaixonado por **arquitetura limpa**, **boas práticas** e **integrações entre sistemas**.  
-Tenho experiência sólida com **C# / .NET**, **Angular**, **TypeScript**, **PostgreSQL**, **SQLServer** e **Redis**, atuando principalmente em **sistemas distribuídos** e **microsserviços**.
+Tenho experiência com **C# / .NET**, **Angular**, **Node**,**TypeScript**, **PostgreSQL**, **SQLServer**, **MongoDB** e **Redis**, atuando principalmente em **sistemas distribuídos** e **microsserviços**.
 
 </div>
 
