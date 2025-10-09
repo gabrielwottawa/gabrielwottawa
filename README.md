@@ -12,6 +12,15 @@
 
 <div align="center">
 
+#### 🌍 Seletor de Idioma | Language Selector  
+#### 🇧🇷 [Português](./README.md) • 🇺🇸 [English](./README.en.md)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🧩 Stack Principal
 
 [![C#](https://img.shields.io/badge/-CSharp-181717?style=for-the-badge&logo=csharp&logoColor=9b59b6)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
@@ -111,9 +120,12 @@ Tenho experiência sólida com **C# / .NET**, **Angular**, **TypeScript**, **Pos
 
 ---
 
-🖤 *"Transformar complexidade em clareza é o que torna o código elegante."*
+🖤 *“Clean code always looks like it was written by someone who cares.”*  
+💬 *“Código limpo sempre parece ter sido escrito por alguém que se importa.”*  
+— **Robert C. Martin, _Clean Code_**
 
 </div>
+
 
 ---
 
