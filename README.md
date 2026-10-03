@@ -91,6 +91,8 @@ Sou um desenvolvedor apaixonado por **arquitetura limpa**, **boas práticas** e 
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielwottawa&theme=tokyonight)
 
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwottawa&layout=compact&theme=tokyonight&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=gabrielwottawa&theme=tokyonight&hide_border=true)
 
 ---
@@ -106,3 +108,4 @@ Sou um desenvolvedor apaixonado por **arquitetura limpa**, **boas práticas** e 
 ![Visitas no perfil](https://hits.sh/github.com/gabrielwottawa.svg?label=Visitas+no+perfil&color=9b59b6&logo=github&style=flat)
 
 </div>
+
